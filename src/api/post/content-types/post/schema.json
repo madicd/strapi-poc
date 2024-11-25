@@ -31,7 +31,7 @@
           "localized": true
         }
       },
-      "type": "blocks",
+      "type": "richtext",
       "required": true
     },
     "featuredImage": {
